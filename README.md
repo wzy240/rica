@@ -56,4 +56,4 @@ Evaluate the acceleration benefits of INC protocols on large-scale network topol
 * Hashing based on (jobId, seqNum) maps flows to aggregator slots.
 * Memory constraints and collisions are modeled to reflect realistic switch behavior.
 ## Example
-Listed in contrib/atp/model.
+Listed in contrib/atp/examples.
