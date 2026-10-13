@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "model": "ResNet50",
+        "ps": "server1",
+        "ps_leaf": "leaf1",
+        "workers": [
+            "server17",
+            "server18",
+            "server19",
+            "server20",
+            "server33",
+            "server34",
+            "server35",
+            "server36",
+            "server49",
+            "server50",
+            "server51",
+            "server52"
+        ]
+    },
+    {
+        "id": 2,
+        "model": "ResNet50",
+        "ps": "server65",
+        "ps_leaf": "leaf5",
+        "workers": [
+            "server81",
+            "server82",
+            "server83",
+            "server84",
+            "server97",
+            "server98",
+            "server99",
+            "server100",
+            "server113",
+            "server114",
+            "server115",
+            "server116"
+        ]
+    },
+    {
+        "id": 3,
+        "model": "ResNet50",
+        "ps": "server5",
+        "ps_leaf": "leaf1",
+        "workers": [
+            "server101",
+            "server110",
+            "server111",
+            "server112",
+            "server37",
+            "server38",
+            "server39",
+            "server40",
+            "server69",
+            "server70",
+            "server71",
+            "server72"
+        ]
+    },
+    {
+        "id": 4,
+        "model": "ResNet50",
+        "ps": "server85",
+        "ps_leaf": "leaf6",
+        "workers": [
+            "server21",
+            "server22",
+            "server23",
+            "server24",
+            "server53",
+            "server54",
+            "server55",
+            "server56",
+            "server117",
+            "server118",
+            "server119",
+            "server120"
+        ]
+    },
+    {
+        "id": 5,
+        "model": "ResNet50",
+        "ps": "server25",
+        "ps_leaf": "leaf2",
+        "workers": [
+            "server9",
+            "server10",
+            "server11",
+            "server12",
+            "server41",
+            "server42",
+            "server43",
+            "server44",
+            "server57",
+            "server58",
+            "server59",
+            "server60"
+        ]
+    },
+    {
+        "id": 6,
+        "model": "ResNet50",
+        "ps": "server86",
+        "ps_leaf": "leaf6",
+        "workers": [
+            "server73",
+            "server74",
+            "server75",
+            "server76",
+            "server102",
+            "server103",
+            "server104",
+            "server105",
+            "server121",
+            "server122",
+            "server123",
+            "server124"
+        ]
+    },
+    {
+        "id": 7,
+        "model": "ResNet50",
+        "ps": "server45",
+        "ps_leaf": "leaf3",
+        "workers": [
+            "server13",
+            "server14",
+            "server15",
+            "server16",
+            "server77",
+            "server78",
+            "server79",
+            "server80",
+            "server106",
+            "server107",
+            "server108",
+            "server109"
+        ]
+    },
+    {
+        "id": 8,
+        "model": "ResNet50",
+        "ps": "server26",
+        "ps_leaf": "leaf2",
+        "workers": [
+            "server61",
+            "server62",
+            "server63",
+            "server64",
+            "server87",
+            "server88",
+            "server89",
+            "server90",
+            "server125",
+            "server126",
+            "server127",
+            "server128"
+        ]
+    }
+]

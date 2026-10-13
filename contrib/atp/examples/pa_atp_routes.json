@@ -1,0 +1,52 @@
+{
+    "jobRoutes": {
+        "1": [
+            [ "leaf1", "spine1" ],
+            [ "leaf2", "spine1" ],
+            [ "leaf3", "spine1" ],
+            [ "leaf4", "spine1" ]
+        ],
+        "2": [
+            [ "leaf5", "spine2" ],
+            [ "leaf6", "spine2" ],
+            [ "leaf7", "spine2" ],
+            [ "leaf8", "spine2" ]
+        ],
+        "3": [
+            [ "leaf1", "spine3" ],
+            [ "leaf3", "spine3" ],
+            [ "leaf5", "spine3" ],
+            [ "leaf7", "spine3" ]
+        ],
+        "4": [
+            [ "leaf2", "spine4" ],
+            [ "leaf4", "spine4" ],
+            [ "leaf6", "spine4" ],
+            [ "leaf8", "spine4" ]
+        ],
+        "5": [
+            [ "leaf1", "spine5" ],
+            [ "leaf2", "spine5" ],
+            [ "leaf3", "spine5" ],
+            [ "leaf4", "spine5" ]
+        ],
+        "6": [
+            [ "leaf5", "spine6" ],
+            [ "leaf6", "spine6" ],
+            [ "leaf7", "spine6" ],
+            [ "leaf8", "spine6" ]
+        ],
+        "7": [
+            [ "leaf1", "spine7" ],
+            [ "leaf3", "spine7" ],
+            [ "leaf5", "spine7" ],
+            [ "leaf7", "spine7" ]
+        ],
+        "8": [
+            [ "leaf2", "spine8" ],
+            [ "leaf4", "spine8" ],
+            [ "leaf6", "spine8" ],
+            [ "leaf8", "spine8" ]
+        ]
+    }
+}
